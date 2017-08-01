@@ -1,8 +1,5 @@
 # Bayesian Network
 
-## Network Design
-![](https://drive.google.com/open?id=0B5-d8KjN9CEvZm9xZDFSUFotM00)
-
 ## Transition Model
 	### Node Trav
 	* P(Trav) = 0.05
